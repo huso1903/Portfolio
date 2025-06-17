@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>EVE-NG on Portfolio de Huseyin Ozkan</title>
+    <link>https://example.com/tags/eve-ng/</link>
+    <description>Recent content in EVE-NG on Portfolio de Huseyin Ozkan</description>
+    <image>
+      <title>Portfolio de Huseyin Ozkan</title>
+      <url>https://example.com/%3Clink%20to%20your%20profile%20image%3E</url>
+      <link>https://example.com/%3Clink%20to%20your%20profile%20image%3E</link>
+    </image>
+    <generator>Hugo -- 0.147.2</generator>
+    <language>fr-fr</language>
+    <lastBuildDate>Mon, 01 Apr 2024 00:00:00 +0000</lastBuildDate>
+    <atom:link href="https://example.com/tags/eve-ng/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>S&#39;initier aux Réseaux Informatiques</title>
+      <link>https://example.com/projets/sae/</link>
+      <pubDate>Mon, 01 Apr 2024 00:00:00 +0000</pubDate>
+      <guid>https://example.com/projets/sae/</guid>
+      <description>&lt;h2 id=&#34;description-du-projet&#34;&gt;Description du Projet&lt;/h2&gt;
+&lt;p&gt;Ce projet avait pour objectif de découvrir et maîtriser l’outil de simulation réseau EVE-NG (Emulated Virtual Environment - Next Generation). J’ai appris à importer et configurer une machine virtuelle EVE-NG sous VMware, installer le pack WinClient nécessaire à la capture de trafic avec Wireshark, créer et gérer des LABs réseaux virtuels, ajouter et interconnecter des équipements Cisco (IOL, commutateurs), lancer des captures de trafic et sauvegarder/restaurer les configurations des nœuds virtuels.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>
